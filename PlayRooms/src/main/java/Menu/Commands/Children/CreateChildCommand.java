@@ -4,7 +4,6 @@ import Menu.Commands.ICommand;
 import Menu.Menus.ScannerSingleton;
 import Source.Child.Child;
 import Source.Child.Children;
-import Source.Child.Disease;
 
 import java.util.*;
 

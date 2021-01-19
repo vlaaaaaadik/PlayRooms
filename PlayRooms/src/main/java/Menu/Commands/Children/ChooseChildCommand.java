@@ -17,8 +17,7 @@ public class ChooseChildCommand implements ICommand {
             String line = scanner.nextLine();
             if(line.equals("1")){
                 Children.getChildren().remove(child);
-            }
-            if(line.equals("2")){
+            }else if(line.equals("2")){
                 break;
             }
         }

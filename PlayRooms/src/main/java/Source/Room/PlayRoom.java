@@ -32,11 +32,6 @@ public class PlayRoom implements Serializable {
 
     public boolean isOpen() {
         Time nowTime = Time.valueOf(LocalTime.now());
-        System.out.println(nowTime);
-        System.out.println(openTime + "open time");
-        System.out.println(closeTime + "close time");
-        System.out.println(nowTime.after(openTime));
-        System.out.println(nowTime.before(closeTime));
         if(openTime.before(nowTime) && closeTime.after(nowTime)){
             isOpen = true;
         }else {

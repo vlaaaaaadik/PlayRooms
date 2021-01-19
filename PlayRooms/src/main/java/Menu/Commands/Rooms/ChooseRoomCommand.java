@@ -17,10 +17,10 @@ public class ChooseRoomCommand implements ICommand {
             System.out.println("        3) exit");
             Rooms.getRooms().get(room);
             String line = scanner.nextLine();
-            menu.executeCommand(line);
             if(line.equals("3")){
                 break;
             }
+            menu.executeCommand(line);
         }
     }
 
