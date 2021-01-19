@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d64a9a87-eba3-48ef-a6d2-7eae2afb0168" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m3g0AvTc3Z9tJMp43gWtjjP4tD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PlayRooms.Main" />
+      <module name="PlayRooms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Source.Room.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d64a9a87-eba3-48ef-a6d2-7eae2afb0168" name="Default Changelist" comment="" />
+      <created>1608727463193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608727463193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1611073082106">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1611073082106" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610987942492">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1610987942492" />
+    <state width="1002" height="182" key="GridCell.Tab.0.bottom" timestamp="1611079472551">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1002" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1611079472551" />
+    <state width="1002" height="182" key="GridCell.Tab.0.center" timestamp="1611079472551">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1002" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1611079472551" />
+    <state width="1002" height="182" key="GridCell.Tab.0.left" timestamp="1611079472551">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1002" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1611079472551" />
+    <state width="1002" height="182" key="GridCell.Tab.0.right" timestamp="1611079472551">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1002" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1611079472551" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1608733822270">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1608733822270" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1611052834999">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1611052834999" />
+    <state x="454" y="72" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608766346876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="454" y="72" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1608766346876" />
+    <state x="65" y="64" key="new project wizard" timestamp="1610829519582">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="64" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1610829519582" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1611076768833">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1611076768833" />
+  </component>
+</project>

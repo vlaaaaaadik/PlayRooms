@@ -1,0 +1,6 @@
+package Source.Child;
+
+public enum Disease {
+    HEALTHY, DEAF, BLIND, COLORBLIND, HANDS_DISEASE, LEGS_DISEASE, COORDINATION_DISEASE;
+
+}
