@@ -18,6 +18,7 @@ public class ShoppingForRoom implements ICommand {
             for (int i = 0; i < Shop.getToys().size(); i++) {
                 System.out.println((i + 1) + " " + Shop.getToys().get(i).toString());
             }
+            System.out.println("type e for exit");
             String choosenToy = scanner.nextLine();
             if(choosenToy.equals("e")){
                 break;

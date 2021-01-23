@@ -14,13 +14,14 @@ public class ListRoomsCommand implements ICommand {
     @Override
     public void execute() {
         List<PlayRoom> rooms =  Rooms.getRooms();
-        for (int i = 0; i < rooms.size(); i++){
-            System.out.println((i + 1)+ " " + rooms.get(i).toString());
-        }
-        menu.updateList();
+
         scanner = ScannerSingleton.getInstance();
-        System.out.println("type e to exit");
         while (true) {
+            for (int i = 0; i < rooms.size(); i++){
+                System.out.println((i + 1)+ " " + rooms.get(i).toString());
+            }
+            System.out.println("type e to exit");
+            menu.updateList();
             String line = scanner.nextLine();
             if(line.equals("e")) break;
             menu.executeCommand(line);

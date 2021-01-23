@@ -19,8 +19,9 @@ public class ChooseRoomCommand implements ICommand {
             String line = scanner.nextLine();
             if(line.equals("3")){
                 break;
+            }else {
+                menu.executeCommand(line);
             }
-            menu.executeCommand(line);
         }
     }
 

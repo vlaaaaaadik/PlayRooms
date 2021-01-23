@@ -23,7 +23,6 @@ public class AddChildToRoomCommand implements ICommand {
             List<PlayRoom> rooms = Rooms.getRooms();
             if (isNumeric(line) && Integer.valueOf(line) <= Children.getChildren().size()) {
                 int value = Integer.valueOf(line);
-                System.out.println(rooms.get(room).toString());
                 if(rooms.get(room).isOpen() && rooms.get(room).getChildren().size() < rooms.get(room).getMaxChildren()) {
                     Rooms.getRooms().get(room).addChild(Children.getChildren().get(value - 1));
                     rooms.get(room).payForChild();

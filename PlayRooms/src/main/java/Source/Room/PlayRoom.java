@@ -72,13 +72,13 @@ public class PlayRoom implements Serializable {
     public String toString() {
         return  name +
                 ", toys in room" + toys.toString() +
-                ", children in room"  + children.toString() +
-                ", out of " + maxChildren +
-                ", is open" + isOpen +
+                ", children in room"  + children.toString() +" " +
+                children.size()+ " out of "+ maxChildren +
                 ", budget = " + budget +
                 ", opens in " + openTime +
                 ", closes in " + closeTime +
-                ", price to enter " + price ;
+                ", price to enter " + price +
+                ", is open " + isOpen();
     }
 
     public void addToy(Toy toy){
